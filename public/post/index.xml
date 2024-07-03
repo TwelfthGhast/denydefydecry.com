@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on TwelfthGhast&#39;s blog</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on TwelfthGhast&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jul 2024 21:07:46 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shorting high FDV, low float tokens :)</title>
+      <link>http://localhost:1313/post/shorting-high-fdv-low-float-tokens/</link>
+      <pubDate>Wed, 03 Jul 2024 21:07:46 +1000</pubDate>
+      <guid>http://localhost:1313/post/shorting-high-fdv-low-float-tokens/</guid>
+      <description>Is shorting high FDV, low float tokens free money? That&amp;rsquo;s probably a yes. A really badly written summary and a trade idea</description>
+    </item>
+  </channel>
+</rss>
